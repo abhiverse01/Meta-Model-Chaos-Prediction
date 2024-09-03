@@ -212,19 +212,25 @@ python src/data_preprocessing.py
 python src/model_training.py
 ```
 
-5. **Train the meta-model:**
+5. **Train the deep learning models:**
+
+```bash
+python src/dl_model_training.py
+```
+
+6. **Train the meta-model:**
 
 ```bash
 python src/meta_model_training.py
 ```
 
-6. **Evaluate the model:**
+7. **Evaluate the model:**
 
 ```bash
 python src/model_evaluation.py
 ```
 
-7. **Generate visualizations and interpret results:**
+8. **Generate visualizations and interpret results:**
 
 ```bash
 python src/visualizations.py
