@@ -1,0 +1,22 @@
+Meta-Model-Chaos-Prediction/
+├── data/
+│   └── titanic.csv
+├── logs/
+│   └── training.log
+├── notebooks/
+│   └── eda.ipynb
+├── src/
+│   ├── data_ingestion.py
+│   ├── data_preprocessing.py
+│   ├── dl_model_training.py
+│   ├── meta_model_training.py
+│   ├── model_evaluation.py
+│   ├── model_training.py
+│   ├── utils.py
+│   └── visualizations.py
+├── LICENSE
+├── README.md
+├── project_stx.txt
+├── requirements.txt
+├── stx.py
+└── stxv2.py
